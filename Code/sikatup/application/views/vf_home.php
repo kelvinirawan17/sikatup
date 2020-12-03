@@ -22,36 +22,14 @@
     <div class="services-area">
         <div class="container">
             <div class="row justify-content-sm-center">
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-services mb-30">
-                        <div class="features-icon">
-                            <img src="<?php base_url() ?>assets/img/icon/icon1.svg" alt="">
-                        </div>
-                        <div class="features-caption">
-                            <h3>60+ UX courses</h3>
-                            <p>The automated process all your website tasks.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
+                <div class="col-lg-8 col-md-10 col-sm-12">
                     <div class="single-services mb-30">
                         <div class="features-icon">
                             <img src="<?php base_url() ?>assets/img/icon/icon2.svg" alt="">
                         </div>
                         <div class="features-caption">
-                            <h3>Expert instructors</h3>
-                            <p>The automated process all your website tasks.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-services mb-30">
-                        <div class="features-icon">
-                            <img src="<?php base_url() ?>assets/img/icon/icon3.svg" alt="">
-                        </div>
-                        <div class="features-caption">
-                            <h3>Life time access</h3>
-                            <p>The automated process all your website tasks.</p>
+                            <h3>PENGUMUMAN</h3>
+                            <p>Pengumuman pada hari ini adalah diisi dengan pengumuman yang ada di pengumuman dan kegiatan.</p>
                         </div>
                     </div>
                 </div>
@@ -64,7 +42,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-7 col-lg-8">
                     <div class="section-tittle text-center mb-55">
-                        <h2>Explore top subjects</h2>
+                        <h2>Potret Kelurahan Kebonsari, Tuban</h2>
                     </div>
                 </div>
             </div>
@@ -182,7 +160,7 @@
             <div class="row justify-content-center">
                 <div class="col-xl-7 col-lg-8">
                     <div class="section-tittle text-center mb-55">
-                        <h2>Community experts</h2>
+                        <h2>Badan Pengurus Harian di Karang Taruna</h2>
                     </div>
                 </div>
             </div>
