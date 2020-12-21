@@ -10,8 +10,8 @@ class Home extends CI_Controller
     public function index()
     {
         $data["page_title"] = "Home";
-        $this->load->view('vf_header', $data);
-        $this->load->view('vf_home');
-        $this->load->view('vf_footer');
+        $this->load->view('v_header', $data);
+        $this->load->view('v_home');
+        $this->load->view('v_footer');
     }
 }
